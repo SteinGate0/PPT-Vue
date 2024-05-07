@@ -1,5 +1,6 @@
 # 项目参考
-相关代码来源：https://github.com/gitbrent/PptxGenJS
+PptxGenJS开源库：
+https://github.com/gitbrent/PptxGenJS
 
 # 前端环境配置
 安装Node.js 配置环境变量
